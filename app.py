@@ -72,7 +72,7 @@ if 'prediction_history' not in st.session_state:
 model, le = load_model()
 
 # Header
-st.markdown('<h1 class="main-header">🔬 Hip Implant Corrosion Detection</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">             🔬 Hip Implant Corrosion Detection</h1>', unsafe_allow_html=True)
 st.markdown("### AI-Powered Monitoring System for Medical Implants")
 
 # Sidebar
