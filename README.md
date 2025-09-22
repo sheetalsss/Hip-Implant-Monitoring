@@ -11,6 +11,9 @@ A machine learning system for early detection of hip implant corrosion using mul
 
 This project develops a machine learning system for monitoring hip implant conditions using real-time sensor data from the University of Illinois College of Medicine. The system analyzes acoustic emission, electrochemical, and mechanical sensor data to detect early signs of implant corrosion with 99.96% accuracy.
 
+### Demo
+* https://hip-implant-monitoring-op.streamlit.app
+
 ### 🎯 Key Features
 
 * 99.96% Accuracy: LightGBM model outperformed initial MLP approach (99%)
